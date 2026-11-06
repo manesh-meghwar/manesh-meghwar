@@ -43,7 +43,6 @@ Research on a diversity-guided optimization framework for deep generative molecu
   <img alt="Machine learning" src="https://img.shields.io/badge/Machine_learning-0F4C5C?style=flat-square" />
   <img alt="Deep learning" src="https://img.shields.io/badge/Deep_learning-146C6C?style=flat-square" />
   <img alt="Generative AI" src="https://img.shields.io/badge/Generative_AI-1F6F78?style=flat-square" />
-  <img alt="Molecular design" src="https://img.shields.io/badge/Molecular_design-0F4C5C?style=flat-square" />
   <img alt="Multi-objective optimization" src="https://img.shields.io/badge/Multi--objective_optimization-146C6C?style=flat-square" />
   <img alt="Data analysis" src="https://img.shields.io/badge/Data_analysis-1F6F78?style=flat-square" />
 </p>
