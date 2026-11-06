@@ -9,7 +9,7 @@
 
 <p align="center">
   Software engineer and MSc Computer Science researcher at Ocean University of China.<br>
-  I build machine-learning methods for drug discovery and chemical optimization, where data science meets molecular design.
+  I build machine-learning and deep-learning methods for drug discovery and chemical optimization, where data science meets molecular design.
 </p>
 
 <p align="center">
