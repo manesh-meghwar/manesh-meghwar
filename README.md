@@ -1,4 +1,4 @@
-<h1 align="center">Manesh Kumar</h1>
+<h1 align="center">Manesh Meghwar</h1>
 
 <p align="center">
   <img alt="Data scientist" src="https://img.shields.io/badge/Data_Scientist-0F4C5C?style=flat-square" />
